@@ -1,0 +1,20 @@
+{
+  "name": "23-components_and_routing",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) 23: Components and Routing ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyfiveeleven/23-components_and_routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyfiveeleven/23-components_and_routing/issues"
+  },
+  "homepage": "https://github.com/andyfiveeleven/23-components_and_routing#readme"
+}
